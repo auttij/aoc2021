@@ -1,4 +1,4 @@
-filepath = "input.txt"
+filepath = "input1.txt"
 
 def read_file_to_arr(filepath):
 	arr = []
@@ -11,7 +11,6 @@ def read_file_to_arr(filepath):
 def exercise1(arr):
 	pass
 
-
 def exercise2(arr):
 	pass
 
@@ -21,4 +20,3 @@ if __name__ == "__main__":
 	print(result)
 	result = exercise2(arr.copy())
 	print(result)
-
